@@ -1,0 +1,41 @@
+/*  Images max-size: 300 x 225px */
+
+/* Site-wide styles */
+
+html {
+    background-color: #9DB2BF;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #DDE6ED;
+    border-radius: 1rem;
+}
+
+/* Header */
+
+header h1 {
+    font-size: 2.5rem;;
+    text-align: center;
+    padding: 1.5rem 0;
+}
+
+/* Panels and headings*/
+
+h2 {
+    text-align: center;
+}
+
+.panel {
+    width: 95%;
+    margin: 0 auto;
+    border: thick double #a9a9a9;
+    display: flex;
+}
+
+/* Cards */
+
+.card {
+    border: 1px solid black;
+}
